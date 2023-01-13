@@ -4,15 +4,15 @@
 *Based on* **The RAD-Hack** *by* **Kark Stjernberg**
 *Based on* **The Black Hack** *by* **David Black**.
 
-## Welcome to the Apocalypse
+# Welcome to the Apocalypse
 
-Even magic, they say, has rules that should not be broken. Yet, in a mystical land, a wizard with an unlimited thirst for power, crossed the threshold that Gods themselves had not dared by casting an impossible *10th level spell*. It shattered the dimensions. Humans from faraway lands, with vast powers of “technology”, crashed through the portals with tanks, aircraft, robots, and fatty, processed, packaged foods.
+Even magic, they say, has rules that should not be broken. Yet, in a mystical land, a wizard with an unlimited thirst for power, crossed the threshold that Gods themselves had not dared by casting an impossible *10th level spell*. It shattered the dimensions. Entire settlements of humans from faraway lands, with vast powers of “technology”, crashed through the portals with cars, computers, guns, and fatty, processed, packaged foods.
 
-War erupted. When the dust settled, magic, machinery, and everything in between lay muddled. Great cities were laid to waste. The few that survive, do what they can to find food, shelter, and rebuild the remains of civilization.
+War erupted. When the dust settled, magic, machinery, and everything in between lay muddled. Great cities were laid to waste. A century later, the few that survive do what they can to find food, shelter, and rebuild the remains of civilization.
 
-**Goblins & Grappling Hooks** is a traditional tabletop roleplaying game, set in an atomic wasteland where humanoids, machines, and awakened plants roam an irradiated planet trying to survive, keep the wilds at bay, and perhaps find a roll of toilet paper along the way. 
+**Goblins & Grappling Hooks** is a traditional tabletop roleplaying game, set in an atomic wasteland where humanoids, machines, and awakened plants roam an irradiated planet trying to survive, keep the wilds at bay, and perhaps find a roll of toilet paper along the way.
 
-## The Core Rules
+# The Core Rules
 
 Whenever a character tries to do something that could result in a failure, you determine whether it succeeds by rolling *below* the most relevant attribute on a *d20*: **Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS),** or **Charisma (CHA)**.
 
@@ -26,57 +26,67 @@ Here are some convenient mappings for common checks:
 | Wisdom  | Awareness, Careful, Insightful                         |
 | Intelligence             | Clever, Recollection, Knowhow                         |
 | Charisma             | Persuasive, Flashy, Seductive, Intimidating                     |
-### Usage die
 
-Any item that has a **Usage die** is considered consumable or limited use. When that item is used the next Turn its Usage die is rolled. If the roll is 1-2 then the Usage Die is downgraded to the next lower die in the following chain: d20 > d12 > d10 > d8 > d6 > d4. When you roll a 1-2 on a d4 the item is spent and the character has no more of it left. The same thing goes for any **Ability Die**, **Radiation Die**, **Quality Die**, etc.
+## Usage die
 
-### Advantage & Disadvantage
+Any item that has a **Usage die** is considered consumable or limited use. When that item is used the next turn its Usage Die is rolled. If the roll is 1-2 then the Usage Die is downgraded to the next lower die in the following chain: d20 > d12 > d10 > d8 > d6 > d4. When you roll a 1-2 on a d4 the item is spent and the character has no more of it left. The same thing goes for any **Ability Die**, **Radiation Die**, **Quality Die**, etc.
+
+## Advantage & Disadvantage
 
 The Game Master (GM) may decide that a particular course of action or task has a higher or lower chance of success. They will ask a player to roll an additional d20 when making a check - with **advantage** the lower result is used and with **disadvantage**, the higher.
 
-### Distance
-Rather than track precise numbers, **Goblins and Grappling Hooks” uses 4 abstract ranges for measuring distances. **Close**, **Nearby**, **Far-Away** and **Distant**. 
+## Distance
+Rather than track precise numbers, **Goblins and Grappling Hooks” uses 4 abstract ranges for measuring distances. **Close**, **Nearby**, **Far-Away** and **Distant**.
 
-Here are approximates showing what that may mean in feet or meters.
+Here are approximates showing what that may mean in feet or meters. Distant is anything beyond Far Away.
 
 |  CLOSE   |  NEARBY   |  FAR AWAY  |
 |:--------:|:---------:|:----------:|
 | 0 - 5ft  | 5 - 60ft  | 60 - 120ft |
 | 0 - 1,5m | 1,5 - 20m |  20 - 40m  |
 
-### Experience
+## Experience
 
 Goblins and Grappling Hooks uses a milestone system for advancement. That is, the GM will decide when the appropriate time is for characters to advance.
 
 ### Gaining levels
 
-When a character **levels** up, their maximum Hit Points increase by rolling the Hit Die for the class. A player should also roll a d20 for each Stat. If the result is higher - that Stat increases by 1. Some species have additional modifiers.
+When a character **levels** up, their maximum Hit Points increase by rolling the Hit Die for the class. A player should also roll a d20 for each Stat. If the result is higher - that Stat increases by 1.
 
-## Character Creation
+# Character Creation
 
-### Choose a species
+Creating a character involves 4 steps
 
-All creatures in the lands are descendent of civilizations. Choose one. Note that robots may decide to resemble one but are otherwise not bound by an appearance.
-
-Dwarves: Generally between 4-5’ tall. 
-Goblins: Generally between 3-4’ tall. 
-Elves: Generally between 5-6’ tall though few grow taller
-Gnomes: Generally between 3-4’ tall
-Hobgoblins: Generally between 5-6’ tall though few grow taller
-Human: Generally between 5-6’ tall though some grow taller.
-Orcs. Generally between 6-7’ tall through some grow taller
+1. Choose a species
+2. Choose a class, roll attributes, and pick special features
+3. Choose an apprenticeship
+4. Buy equipment (start with 1d4 slugs unless otherwise noted)
 
 
-### Choose a class
+## Choose a species
 
-There are 5 classes to play as and choose from: **Humanoid**, **Mutant**, **Robot**, **Plantoid** and **Psionicist**. Your class determines your Hit Points and unique abilities. 
+All creatures in the lands are descendent of civilizations. Choose one.
 
-### Roll attributes
+| Species             | Description                                                                                                                   |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Dwarves          | Generally between 4-5’ tall.                                                   |
+| Goblins             | Generally between 3-4’ tall. |
+| Elves     | Generally between 5-6’ tall though few grow taller |
+| Gnomes  | Generally between 3-4’ tall                         |
+| Hobgoblins             | Generally between 5-6’ tall though few grow taller                        |
+| Human             | Generally between 5-6’ tall though some grow taller                     |
+| Orcs             | Generally between 6-7’ tall through some grow taller                     |
+| Mutant, Plantoids, Robots            | Varies wildly. Be creative!                      |
 
-**Pure Strain Humanoids**
+
+## Choose a class
+
+There are 5 classes to play as and choose from: **Humanoid**, **Mutant**, **Robot**, **Plantoid** and **Psionicist**. Your class determines your Hit Points and unique abilities.
+
+### Pure Strain Humanoids
 Pure Strain Humanoids are survivors of a number of different species. Through luck or genetics they have survived better than the common folk. They boast immunity to radiation, tend to be attractive, and gain a few other perks due to their heritage. Their height, weight and other attributes depend on their species.
 
-#### Starting Attributes: 
+#### Starting Attributes:
 Roll 4d6 and drop the lowest die for each attribute. Once the stats are generated they may all be swapped around freely.  Afterward, add 1 point to any attribute under 15 and 1 point to CHA (max 19).
 
 **Level 0 HP:** d8
@@ -84,39 +94,31 @@ Roll 4d6 and drop the lowest die for each attribute. Once the stats are generate
 **Radiation die:** N/A (see below)
 
 #### Special Features
-Pure Strain Humanoids don't suffer mutations or radiation damage from any source during play. Additionally, there are some perks depending on species:
-
-Dwarves: +1 to Strength, +1 to Constitution, -1 DEX
-Goblins: +2 Dexterity,. -1 Wisdom
-Elves: +2 Intelligence, -1 Wisdom
-Gnomes: +1 Intelligence
-Hobgoblins: +1 Strength, 2d6 extra starting slugs,
-Human: Select apprenticeship, 1d6 extra slugs, roll INT checks with advantage
-Orcs. +2 Strength, -2 Charisma, roll all CHA checks with advantage
+Pure Strain Humanoids don't suffer mutations or radiation damage from any source during play. They may also select their apprenticeship and start with an additional 1d6 slugs.
 
 #### Leveling up
 
 Roll to see if attributes increase.
 
 
-**Mutants**
+### Mutants
 Mutants vary wildly. Some have extra appendages others share forms or attributes with animals or plant life. Most mutants that adventure are between 3' and 7' tall with the average height being similar to their species.
 
-#### Starting Attributes: 
+#### Starting Attributes:
 Roll a single d20 for each stat. Reroll all results of 1 and 20.
 
 **Level 0 HP:** d6
 **HP Per Level/Resting:** 1d6
 **Radiation die:** d10
 
-#### Mutations
+#### Powers (Mutations)
 
 Mutants start the game with 1 randomly chosen **Mutations** and an **Ability Die** of d4. This die is refreshed after a long rest. To use a **Mutation**, first check the attributes that corresponds with what you are attempting to do, then roll the **Ability Die** to see if it decreases a step.
 **Reactive Mutations (R)** can be triggered even when it isn't the targeted player's turn, and do not count as an action. If a roll of 20 is made while using a **Mutation**, the **Mutation** cannot be used again until the character finishes a long rest.
 
 | Mutations             | Effect                                                                                                                   |
 |:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| 1. Chameleon          | Blend into the environment to gain advantage on stealth test.                                                                |
+| 1. Chameleon          | Blend into the environment to gain advantage on stealth check.                                                                |
 | 2. Winged             | Gain ability to fly up to far-away range.                                                                                |
 | 3. Super      | Permanently increase one attribute by 2 to a max of 20.                                                             |
 | 4. Extendable Claws   | Unarmed attack deals d8+level damage. Concealable at will.                                                               |
@@ -148,10 +150,10 @@ Mutants start the game with 1 randomly chosen **Mutations** and an **Ability Die
 Roll to see if attributes increase. Roll 1d6 to determine what attribute to roll twice for. Increase the **Ability Die** one step on **even** levels. Gain a random **Mutation** on **odd** levels, to a max of five. When gaining a sixth **Mutation**, that one replaces the old one.
 
 
-**Plantoids**
+### Plantoids
 After the events of the apocalypse, some plant material merged with humanoid DNA and gave rise to a new type of species. Though they can resemble humanoids some are covered in bark while others sprout flowers and give off fragrances. As varied as their appearance can be, adventuring plantoids are mostly 3' to 8' tall and are able to move.
 
-#### Starting Attributes: 
+#### Starting Attributes:
 Roll 18d6 and distribute stats as desired. Maximum value for any stat is 18 and minimum is 2.
 
 **Level 0 HP:** d6
@@ -159,7 +161,7 @@ Roll 18d6 and distribute stats as desired. Maximum value for any stat is 18 and 
 **Radiation die:** d10
 
 
-#### Adaptations
+#### Powers (Adaptations)
 
 Plantoids start the game with 1 randomly chosen **Adaptation** and an **Ability Die** of d4. This die is refreshed after a long rest. To use an **Adaptation**, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to see if it decreases a step.
 
@@ -197,19 +199,19 @@ Plantoids start the game with 1 randomly chosen **Adaptation** and an **Ability 
 Roll to see if attributes increase. Roll 1d6 to determine what attribute to roll twice for. Increase the **Ability Die** one step on **even** levels. Gain a random **Adaptation** on **odd** levels, to a max of four. When gaining a fifth **Adaptation**, that one replaces the old one.
 
 
-**Psionicists**
+### Psionicists
 Psionicists looks like most other Pure Strain Humanoids but have developed mental gifts allowing them to manipulate people, objects, and sometimes the environment using only their minds.
 
-#### Starting Attributes: 
+#### Starting Attributes:
 Roll 2d6+2 for **STR**, **DEX** and **CON** and roll 4d6 and drop the lowest die for **INT**, **WIS** and **CHA**. Once all stats are generated two may be swapped around.
 
 **Level 0 HP:** d4
 **HP Per Level/Resting:** 1d4
 **Radiation die:** d10
 
-#### Psionic powers
+#### Powers (Psionics)
 
-Psionicists start the game with one randomly selected **Psionic Power** and an **Ability Die** of d4. This die is refreshed after a long meditation (rest). To use these, first test the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to check if it decreases a step. **Reactive Psionic Powers (R)** can be triggered even when it isn't the targeted player's turn, and counts as a free action. Robots, constructs or other mindless creatures are immune to **Psionic Powers**, unless otherwise stated.
+Psionicists start the game with one randomly selected **Psionic Power** and an **Ability Die** of d4. This die is refreshed after a long meditation (rest). To use these, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to check if it decreases a step. **Reactive Psionic Powers (R)** can be triggered even when it isn't the targeted player's turn, and counts as a free action. Robots, constructs or other mindless creatures are immune to **Psionic Powers**, unless otherwise stated.
 
 
 | Psionic powers        | Effect                                                                           |
@@ -238,7 +240,7 @@ Psionicists start the game with one randomly selected **Psionic Power** and an *
 
 #### Special features
 
-**Mental Fortitude:** Roll with **Advantage** when testing to avoid damage or effects from Psionic sources.
+**Mental Fortitude:** Roll with **Advantage** when checking to avoid damage or effects from Psionic sources.
 **Precognition:** Psionics can choose to reroll one roll per session and will do so with **Advantage**.
 
 #### Leveling up
@@ -247,10 +249,10 @@ Roll to see if attributes increase. Roll twice for **INT** and **WIS**.
 Increase the **Ability die** one step on **odd** levels.
 Gain a random **Psionic Power** on **even** levels, to a max of five. When gaining a sixth **Psionic Power**, that one replaces an old one.
 
-**Robots**
+### Robots
 Constructs from the war, robots vary quite a bit in composition.
 
-#### Starting Attributes: 
+#### Starting Attributes:
 Robots don't get to roll, but instead generate their attributes with a point-buy system. Their starting stats begin at 8, and they have 25 points to spend to increase them. Raising a stat above 13 costs 2 points, Above 14 costs 3 points, above 15 cost 4 points, and so on. Robots cannot raise a single stat above 18.
 
 **Level 0 HP:** d10
@@ -258,9 +260,9 @@ Robots don't get to roll, but instead generate their attributes with a point-buy
 **Radiation die:** N/A (see below)
 
 
-#### Modules
+#### Powers (Modules)
 
-Robots start the game with two **Modules** of their choice and an **Ability Die** of d4. This die is renewed after running a thorough database diagnosis routine (rest). To use a **Module**, first test the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to check if it decreases a step. **Reactive Modules (R)** can be triggered even when it isn't the targeted player's turn, and does not count as an action. 
+Robots start the game with two **Modules** of their choice and an **Ability Die** of d4. This die is renewed after running a thorough database diagnosis routine (rest). To use a **Module**, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to check if it decreases a step. **Reactive Modules (R)** can be triggered even when it isn't the targeted player's turn, and does not count as an action. 
 
 | Modules                           | Effect                                                                                                                           |
 |:----------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
@@ -271,7 +273,7 @@ Robots start the game with two **Modules** of their choice and an **Ability Die*
 | 5. Multiple Limbs                 | Ability to attack twice.                                                                                                         |
 | 6. Laser Beam                     | Shoot energy beam up to far-away range for D6+level damage.                                                                      |
 | 7. Electric Pulse Discharge       | Lowers the Ability Die one step to cause d6+level damage to everyone nearby.                                                     |
-| 8. First Aid Procedure            | Test INT to heal d6+level damage to organic target.                                                                              |
+| 8. First Aid Procedure            | check INT to heal d6+level damage to organic target.                                                                              |
 | 9. Reactive Armor Plating (R)     | Gain 2 AP for the next minute.                                                                                         |
 | 10. Night Vision Optics           | See in the dark for 10 minutes.                                                                                                  |
 | 11. Loudspeaker                   | Shout short command with booming voice, can be heard for miles.                                                                  |
@@ -297,9 +299,9 @@ then spend one **Scrap**+level to either increase the **Ability Die** one step o
 
 ----
 
-### Pick a background
+## Pick an Apprenticeship
 
-Start the game with one randomly selected **Apprenticeship** that represents what the character did for a living before he or she started adventuring as well as starting equipment. Any tests made by a player that falls under that **Apprenticeship** have **Advantage** (GM's discretion). A character may spend a year as an apprentice before taking a job in that area. Daily pay (in slugs) as a full-time worker is noted in the table below along with the risk of pursuing that profession. After 5 years, the PC/NPC is considered an expert and may double the compensation per day listed.
+Start the game with one randomly selected **Apprenticeship** that represents what the character did for a living before he or she started adventuring as well as starting equipment. Any checks made by a player that falls under that **Apprenticeship** have **Advantage** (GM's discretion). A character may spend a year as an apprentice before taking a job in that area. Daily pay (in slugs) as a full-time worker is noted in the table below along with the risk of pursuing that profession. After 5 years, the PC/NPC is considered an expert and may double the compensation per day listed.
 
 
 | Apprenticeship       | Pay | Risk | Starting equipment                                                 |
@@ -370,7 +372,7 @@ Start the game with one randomly selected **Apprenticeship** that represents wha
 | 74. Glass blower | 3 | low | Glass vial with stopper |
 | 75. Lore keeper | 2  | low | Two books of historical text |
 | 76. Prospector | 2 | medium | precious metal worth d6 extra slugs |
-| 77. Miner | 2 | medium | mining pick (Medium Melee) | 
+| 77. Miner | 2 | medium | mining pick (Medium Melee) |
 | 78. Hot air balloon pilot | 3 | medium | high altitude goggles |
 | 79. Artist | 1 | low | paintbrush, 1 sq foot piece of canvas |
 | 80. Architect | 3 | low | pencil set, protractor |
@@ -395,20 +397,19 @@ Start the game with one randomly selected **Apprenticeship** that represents wha
 | 99. Pharmacologist | 3 | low | d4 Drugs of choice |
 | 100. Jailer | 2 | medium | baton (Light Melee), prison guard hat |
 
-
 ----
 
-### Buy equipment
+## Buy equipment
 
-In addition to being a currency, **Slugs** are also used as ammunition for most standard firearms. Level 0 Characters start with a light melee weapon and 1d4 **Slugs**. Characters also start with a set of dirty clothes or their own description and other equipment listed in their class description.
+In addition to being a currency, **Slugs** are also used as ammunition for most standard firearms. Level 1 Characters start with a light melee weapon and 1d4 **Slugs**. Characters also start with a set of dirty clothes or their own description and other equipment listed in their class description.
 
 | Item                   | Cost   | Usage die | Notes                       |
 |:-----------------------|:-------|:----------|:----------------------------|
-| Light Armor            | 50     | -         | Armor Class 2.            |
-| Medium Armor           | 100    | -         | Armor Class 4             |
-| Heavy Armor            | 350    | -         | Armor Class 6.             |
+| Light Armor            | 50     | -         | 2 Armor Points              |
+| Medium Armor           | 100    | -         | 4 Armor Points              |
+| Heavy Armor            | 350    | -         | 6 Armor Points              |
 | Tech Armor             | *      | -         | *                           |
-| Shield Small/Large     | 50/100 | -         | 1/2 Armor Class.           |
+| Shield Small/Large     | 50/100 | -         | 1/2 Armor Points.           |
 | Backpack               | 5      | -         | Carry +2 extra.             |
 | Can of Gasoline        | 25     | d6        | Fuel for Vehicles.          |
 | Work Tools             | 5      | -         | -                           |
@@ -425,20 +426,21 @@ In addition to being a currency, **Slugs** are also used as ammunition for most 
 | Large Sack             | 2      | -         | -                           |
 | Scrap                  | 10     | -         | Repair component.           |
 | Lighter                | 5      | d6        | -                           |
-| Torches (6)            | 1     | d6        | Each Torch has a Usage Die. |
+| Torches (6)            | 1      | d6        | Each Torch has a Usage Die. |
 | Booze                  | 10     | d4        | Can be used as fuel.        |
 | Tub Wine               | 5      | -         | -                           |
 | Assorted Herbs         | 10     | d8        | -                           |
 | 10' Pole               | 1      | -         | -                           |
+| Grappling Hook         | 1      | -         | Who wouldn't want one?      |
 | Pack of Arrows / Bolts | 5      | -         | 10 Arrows per quiver.       |
 
 #### Encumbrance
 
-A character can carry a number of items equal to their STR with no issues. Carrying more than this amount means they are **encumbered** and all attribute tests are taken with **Disadvantage** - you can also only ever move to somewhere Nearby. A character simply cannot carry more than double their STR.
+A character can carry a number of items equal to their STR with no issues. Carrying more than this amount means they are **encumbered** and all attribute checks are taken with **Disadvantage** - you can also only ever move to somewhere Nearby. A character simply cannot carry more than double their STR.
 
 #### Equipment quality & degradation
 
-Whenever weapons and armor is found or about to be bought, roll a **d8** on the table below to see what its **Quality Die** is. The GM will increase or decrease the cost of equipment by 5-25 Slugs, depending on its quality. When rolling an attack roll of **20** or when dealing **maximum damage** with a Melee Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling an attack roll of **20** with a Ranged Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When an enemy rolls a **1** on an attack, test the corresponding **Quality Die** to see if the PC’s armor breaks. Equipment can be repaired by using **Scrap** and testing **INT**. A successful test increases the **Quality Die** by one step, to a maximum of D8. Whenever equipment is used in ways that could harm it, test the **Quality Die**.
+Whenever weapons and armor is found or about to be bought, roll a **d8** on the table below to see what its **Quality Die** is. The GM will increase or decrease the cost of equipment by 5-25 Slugs, depending on its quality. When rolling an attack roll of **20** or when dealing **maximum damage** with a Melee Weapon, check the corresponding **Quality Die** to see if the weapon breaks. When rolling an attack roll of **20** with a Ranged Weapon, check the corresponding **Quality Die** to see if the weapon breaks. When an enemy rolls a **1** on an attack, check the corresponding **Quality Die** to see if the PC’s armor breaks. Equipment can be repaired by using **Scrap** and checking **INT**. A successful check increases the **Quality Die** by one step, to a maximum of D8. Whenever equipment is used in ways that could harm it, check the **Quality Die**.
 
 
 | Result | Quality die |
@@ -488,7 +490,7 @@ Armor provides protection by reducing all incoming damage and comes in 4 differe
 
 ### Full auto fire
 
-Fully automated guns, such as SMGs and machine guns give the player the option to use **Full Auto Fire**. First roll the quality die for the weapon and note its result - you can make that many attacks with this weapon in a row, until it jams and you have to stop shooting. Fixing a gun that is jammed when in combat takes a moment. Don't forget that **Full Auto Fire** uses one Slug per attack made.
+Fully automated guns, such as SMGs and machine guns give the player the option to use **Full Auto Fire**. First roll the quality die for the weapon and note its result - you can make that many attacks with this weapon in a row, until it jams and you have to stop shooting. Fixing a gun that is jammed when in combat takes an action. Don't forget that **Full Auto Fire** uses one Slug per attack made.
 
 
 ## Combat
@@ -499,7 +501,7 @@ There are 2 important types of tracked time: **Rounds** and **Turns**  **Rounds*
 
 ### Initiative
 
-When combat breaks out, everyone must be sorted into an order so they each get to act and react in turn. Every character tests their **DEX**, those that succeed, take their turn before their opponents. They must then act as a group - deciding their own order for actions. Those that fail their **DEX** tests, go after their opponents.
+When combat breaks out, everyone must be sorted into an order so they each get to act and react in turn. Every character checks their **DEX**, those that succeed, take their turn before their opponents. They must then act as a group - deciding their own order for actions. Those that fail their **DEX** checks, go after their opponents.
 
 
 ### Player's turn
@@ -554,6 +556,7 @@ If a player rolls a 1 when making an attack roll, the attack counts as a **criti
 
 Goblins & Grappling Hooks ignores saves and instead asks the player to roll attribute **checks** when any environmental hazard, trap or potentially harmful effect would impact them - using the table below as a guide.
 
+
 |                  STR                   |                 DEX                 |                 CON                  |
 |:--------------------------------------:|:-----------------------------------:|:------------------------------------:|
 | Physical Harm that *cannot* be dodged. | Physical Harm that *can* be dodged. | Poison, Disease, Radiation or Death. |
@@ -569,25 +572,10 @@ When a character is reduced to zero Hit Points (HP) they are incapacitated and c
 
 *If the characters lose the fight or are unable to recover the body of a character, their character is lost forever!*
 
-### Deadlier combat
-
-If you want deadlier combat (and who doesn't), use this following rule:
-When a character (PC or NPC) takes critical damage, roll on the Incapacitated table. A character that reaches 0 HP dies straight away.
-
-| ROLL | RESULT                                                                                                                          |
-|:---:|:-----------------------------------------------------------------------------------------------------------------------------------|
-|  1  | **KO'd** - Knocked out cold.                                                                                                       |
-|  2  | **Bump on the Head** - Disadvantage on all tests for the next 1d4 minutes.                                                         |
-|  3  | **Fractured Bones** - STR, DEX and CON are temp. -2 for the next 1d6 days.                                                         |
-|  4  | **Cracked Skull** - INT and WIS are temp. -2 for the next 1d6 days.                                                                |
-|  5  | **Crippled** - STR or DEX permanently reduced by 2.                                                                             |
-|  6  | **Disfigured** - CHA is permanently reduced by 2. All CHA tests have Disadvantage, apart from CHA tests to threaten or intimidate. |
-|  7  | **Limb loss** - Roll a d6 - 1. Hand, 2. Foot, 3. Arm, 4. Leg, 5. Face (Decrease CHA to 4), 6. Head (and you're probably dead).     |
-|  8  | **Dead** - Spectacularly eviscerated, blown up, melted, smashed into jelly, etc.                                                   |
 
 ### Healing
 
-Characters can regain lost Hit Points from Herbs, Drugs, Abilities and in the case of Robot characters, by being repaired. They can never gain more than their maximum - and can never go below zero.
+Characters can regain lost Hit Points from Herbs, Drugs, Powers and in the case of Robot characters, by being repaired. They can never gain more than their maximum - and can never go below zero.
 
 ### Resting
 
@@ -595,166 +583,3 @@ When characters rest for about an hour, it’s considered a “short rest” and
 
 
 ----
-
-# Game Master’s Section
-
-## Drugs & addiction
-
-All drugs take effect immediately after they have been used and last for **d6 blissful minutes**. When the effect wears off, you get Disadvantage to all INT and WIS tests for the **following hour**. If any one drug is used more than once per day, a CON test must be passed or the user becomes **addicted**. An addict must take one hit every 8 hours, or get disadvantage to all **INT**, **WIS** and **CHA** tests. Drugs are normally easy to come by, and the pricing depends entirely on the supply and demand, but normally cost between 20-50 Slugs/dose.
-
-| NAME       | EFFECT                                                                             |
-|:-----------|:-----------------------------------------------------------------------------------|
-| Aggro      | Gain 2 AP and get Advantage to all STR tests.                                      |
-| Brainz     | Advantage to all INT/WIS tests and against Psionic Attacks.                        |
-| Speed      | Act first and get Advantage to all DEX tests.                                      |
-| Sweet      | Advantage to all CHA tests.                                                        |
-| Stimpack   | Instantly heals 2d6 damage.                                                        |
-| Cleaner    | Induces terrible vomiting while curing all addiction. Pass CON test or lose d6 HP. |
-| Rad-Off    | Refreshes Radiation Die by one step, up to its maximum.                            |
-| Rad-Screen | Gain Advantage when rolling Radiation Die for 1 hour.                              |
-
-## Radiation
-
-When you approach a zone that is glowing from radiation, roll your **Radiation Die**.
-
-Depending on how close you are to the source of the glow and the level of radiation, roll more or less often - **Low**, 1/day, **Moderate** 1/hour, **High** 1/minute, **Extreme** 1/moment. Reduce **CON** and **Max HP** by **2** for each step the radiation die has decreased from its original size. If you roll 1-2 on a radiation die the size of a d4, roll a d6 on the table below.
-
-The radiation die never goes below d4, but a roll on 1-2 still counts as if it was reduced. Certain Tech and drugs mitigate the effects of radiation.
-
-| RESULT | EFFECT                                                                 |
-|:-------|:-----------------------------------------------------------------------|
-| 1      | **Glowing** - 1-in-6 chance to gain a random mutation.                 |
-| 2      | **Skin peel** - Disadvantage on all CHA tests for 1 day.               |
-| 3      | **Headache** - Disadvantage on all INT tests for 1 day and d6 damage.  |
-| 4      | **It stings!** - Take d8 damage.                                       |
-| 5      | **It burns!** - Take d12 damage.                                       |
-| 6      | **I'm melting!** - You melt into a glowing, horrible mess (and die).   |
-
-## Poisons
-
-Poisons come in many different forms and can cause a wide variety of effects on the victim. Most poisons will require a passed **CON** test to resist and/or neutralize. See table below for examples of poisons:
-
-| TYPE           | EFFECT                                              |
-|:---------------|:----------------------------------------------------|
-| Venom          | Victim takes d6 damage every Minute.                |
-| Hallucinogenic | Victim hallucinates for 1 hour.                     |
-| Sleep          | Victim is knocked out for 8 hours. Can be awakened. |
-| Paralyzing     | Lose ability to move.                               |
-
-## Controlling robots
-
-Humans can attempt to give a nearby robot an order as an action. They must successfully test their **CHA** for each robot they are attempting to control, adding the Robots' **HD** to the roll. The GM can also give further modifications, Advantage/Disadvantage to the roll depending on the complexity of the order. Robots that are Controlled by Humans must spend all their actions and movement to obey the command of the Human for 2d4
-
-Moments after being Controlled. After that, their software reboots and they go back to their original command. Robots will normally not obey orders to attack another human being.
-
-| ORDER                       | MODIFICATION |
-|:----------------------------|:------------:|
-|  Give information about...  |      -       |
-|  Protect...                 |      +1      |
-|  Unlock/Lock...             |      +2      |
-|   Attack...                  |      +3      |
-|   Shut down...               |      +4      |
-
-## Random encounters
-
-The GM may roll a d4 every 15 minutes of real world play, or whenever it makes sense in the fiction (when the player characters are being loud). A result of 1-2 means the players will encounter a randomly generated creature or distraction in the following Turn.
-
-## Creature reactions
-
-Some creatures and NPCs will have predetermined personalities and goals that will guide a GM when choosing their actions and feelings towards the characters. Those that do not, such as randomly encountered creatures, make a d8 Reaction roll on the following table:
-
-| RESULT | REACTION                     |
-|:-------|:-----------------------------|
-| 1      | Flee then roll again.        |
-| 2      | Avoid the PCs entirely.      |
-| 3      | Trade with PCs.              |
-| 4      | Give the PCs aid.            |
-| 5      | Mistake the PCs for friends. |
-| 6      | Trick the PCs (roll again).  |
-| 7      | Call for Reinforcements.     |
-| 8      | Capture/Kill/Eat the PCs.    |
-
-## Tech
-
-Tech is a collective term for highly advanced, pre-apocalypse equipment that give its owner a variety of beneficial effects and abilities. **Tech Weapons** might add +2 to any attribute being tested while using it, ignore armor, sets enemies on fire, etc. **Tech Armor** can double the amount of AP the armor type would normally have, protect its user from radiation, refresh spent AP after every combat, or other beneficial effects. Most (if not all) Tech rely on a steady supply of **Energy Packs**, a rare and expensive power supply. An Energy Pack has a d6 Usage Die, but more powerful variations are rumored to exist.
-
-Without these, most tech items simply will not work. When creating your own Tech, try to make the items unique from each other. They are supposed to be powerful, one-of-a-kind equipment that give its owner an edge.
-
-When rolling to see the **Quality** of Tech, roll a d6 instead of the normal d8.
-
-## Understanding tech
-
-To effectively use Tech, you must first understand how it works. Normally it is enough that the player describes how her character experiments with the Tech, but some highly advanced Tech requires a successful INT test to fully understand and make use of. Such a roll is often made with Disadvantage.
-
-| EXAMPLE       | NAME                 | EFFECT                                                                                                                  |
-|:--------------|:---------------------|:------------------------------------------------------------------------------------------------------------------------|
-| Melee Weapon  | Vibro Dagger         | Ignores armor. +2 Damage.                                                                                               |
-| Melee Weapon  | Energy Axe           | Roll damage dice twice, pick the highest. Exploding Damage.                                                             |
-| Melee Weapon  | Stun Whip            | Nearby range. Ensnares target on critical hit, dealing damage each round. Non-lethal.                                  |
-| Ranged Weapon | Riot Pistol          | Far-Away range. KOs target on a critical hit. Non-lethal.                                                               |
-| Ranged Weapon | Needler              | Can be loaded with different kinds of poisons. Currently loaded with venomous or paralyzing ammo (50%) and 1d12 rounds. |
-| Ranged Weapon | Laser Rifle          | Roll damage dice twice, pick the highest. Distant range.                                                                |
-| Armor         | Jet-Pack             | User can jump up to Far-Away distance and fly for a short time. Highly unstable. Can be worn over armor.                |
-| Armor         | Power Armor          | +2 STR, -2 DEX, +2 CON. 10 AP. Very loud.                                                                               |
-| Armor         | HAZMAT Suit          | Protects user from radiation.                                                                                           |
-| Item          | EMP Grenade          | Causes double damage. Ignores armor. Affects all machines within Nearby range.                                          |
-| Item          | Energy Cloak         | Blend into environment to gain Advantage on stealth test.                                                               |
-| Item          | Quantum Communicator | Sender and Receiver. Can send short messages one way. Unlimited range.       |
-
-## Vehicles & driving
-
-Everyone can drive a **Vehicle**, but it takes skill and a successful **DEX** check to pull off a crazy or daring maneuver behind the wheel. Vehicles have Hit Points and Armor Points.
-
-These can only be repaired if **Scrap** is used and an INT test is passed. Attack rolls made while in a moving vehicle have Disadvantage, while Defence Rolls have Advantage. When a vehicle reaches 0 Hit Points, roll a d6 on the table on the opposite page.
-
-| MODEL            | DESCRIPTION                                                                                                                 |       COST |
-|:-----------------|:----------------------------------------------------------------------------------------------------------------------------|-----------:|
-| Moped (S)        | Fits two people. Slow, but cheap. Beats running. 5 HP. 1AP. d4 ramming damage against smaller targets.                      |   30 Slugs |
-| Dirt Bike (S)    | Fits two people. Advantage in rough terrain. 8 HP, 1 AP. d6 ramming damage against smaller targets.                         |   70 Slugs |
-| Junker Car (M)   | Fits 4-5 people. 20 HP, 2 AP. d8 ramming damage against smaller targets.                                                    |  150 Slugs |
-| Pickup Truck (M) | Fits 4 people, one in the back. Space for mounted machine gun etc. 40 HP, 8 AP. 2d6 ramming damage against smaller targets. |  750 Slugs |
-| Armored Van (M)  | Fits 6-8 people. 40 HP, 15 AP. d12 ramming damage against smaller targets.                                                  |  350 Slugs |
-| Bigfoot (L)      | Fits four people. Can safely drive over most other vehicles. 30 HP. 5 AP. 3d6 ramming damage against smaller targets.       |  900 Slugs |
-| Truck (XL)       | 80 HP. 25 AP. Fits four people. 2d10 ramming damage against smaller targets. Slow but nigh unstoppable.                     | 1300 Slugs |
-| Semi-Trailer     | (XL) Needs a vehicle to drive it. Fits 25+ people or a huge amount of cargo. 40 HP. 15 AP.                                  |  700 Slugs |
-
-|     | CAR CRASH                                              |
-|:---:|:-------------------------------------------------------|
-| 1-2 | **Come on! ** - Can be repaired if d4 Scrap is used.  |
-| 3-5 | **Let’s gut it!  ** - The wreck is good for 2d6 Scrap. |
-|  6  |  *BOOM!*  Everyone Nearby takes 1d8 damage.      |
-
-| CREATURE                 |  HD  | ACTIONS AND SPECIALS                                                                                                                                                                                                                    |
-|:-------------------------|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Animal Mutant            | 1-10 | Walking, talking animal. 2 Random mutations, medium ranged or melee weapon.                                                                                                                                                             |
-| Ravenous Roach           |  1   | Goes straight for the food, and will eat 1d4 rations of food on a successful attack, instead of dealing damage.                                                                                                                         |
-| Mind Leeches             |  1   | Swaps minds with target on a 1-in-6 on a successful attack.                                                                                                                                                                             |
-| Siamese Vulture          |  1   | Targets the lonely, sick and weak. Attacks twice.                                                                                                                                                                                       |
-| Vermin Swarm             |  1   | Crawls all over target and keeps on biting and scratching. Takes double damage from fire based attacks.                                                                                                                                 |
-| Buzz-Drone               |  1   | Attacks from the air with saw-like blades. Has an 3 Armor Points.                                                                                                                                                                       |
-| RAD-Head                 |  1   | Humanoid whose brain is half melted away by radiation causing madness. Attacks on sight.                                                                                                                                                |
-| Sludge Slaver            |  2   | Aims to enslave and attacks with nets first, then spears.                                                                                                                                                                               |
-| Raider                   |  2   | Can enter drug fueled rage that gives Disadvantage on defence rolls.                                                                                                                                                                    |
-| Raider Poisoner          |  2   | Sneaks up on lone targets and attacks with poison tipped blades 1d6 + CON test or take d6 damage each moment until treated.                                                                                                             |
-| Corpse Worm              |  2   | Explodes out of dead bodies and tries to burrow through target with drill-like mouth. Pass STR test or get burrowed through for 1d8 CON damage. Roll on OofA table if CON reaches zero.                                                 |
-| Cannibal                 |  2   | Pale, lumbering mutants that attack with Light Melee, Ranged and 1 random Mutation.                                                                                                                                                     |
-| Cannibal Berserker       |  2   | As above, but attacks in a blood fueled rage (1 moment to activate) with two war axes (d6), Defence Rolls are at a Disadvantage.                                                                                                        |
-| Cannibal Blood Priest    |  3   | Attacks by channeling mutant blood powers, causing blood to flow out of mouth, eyes and ears of target (d6). CON test or all rolls are at a Disadvantage for 1d4 moments.                                                               |
-| Cryo Wasp                |  3   | Normal attacks are at Disadvantage. Area and fire-based attacks deal double damage. Stinger (d4) freezes target until it passes CON test.                                                                                               |
-| Mushroom Man           |  3   | Inhale its spores to communicate with it mentally. It can cause linked target to experience hallucinations at will.                                                                                                                     |
-| Glowing Locust Swarm     |  4   | Swarms in the thousands, eats all organic matter. Causes radiation to increase in the area up to Far-Away.                                                                                                                              |
-| Spitting Lizard          |  4   | Spits corrosive acid that deals d6 each turn until cleaned off.                                                                                                                                                                         |
-| Jetpack Ravager          |  4   | Attacks with melee as if ranged by sweeping through the air. Blows up for 3d4 damage to everyone Nearby on defeat.                                                                                                                      |
-| Horror Crab              |  5   | Has 8 Armor Points. Emits nightmare rays hitting d4 Nearby targets when encountered. Pass INT test or get paralyzed from fear until the next combat round.                                                                              |
-| Gene Cultist             |  5   | Armed with Cell Blaster (d8) that mutates target on full damage. (-2 CON + 1 Random Mutation). Targets humans first.                                                                                                                    |
-| Gene Brute               |  6   | 4 random mutations. Ability to use 2 at the same time.                                                                                                                                                                                  |
-| Pterodactyl              |  6   | Silent hunter. Makes a great mount.                                                                                                                                                                                                     |
-| Croaking Pike            |  7   | Half fish, half toad. Hides in dark waters. Loud croaking causes nausea. WIS test or vomit for one moment.                                                                                                                              |
-| Brain Jelly              |  7   | Tentacular blob that floats in the air. Catches intelligent prey for Mind Merge (+1 INT, -2 STR). Easily bored, drops prey from high up.                                                                                                |
-| Desert Whale             |  8   | Crashes through the sand in search of sand-krill. Territorial.                                                                                                                                                                          |
-| Void Traveler            |  8   | Dormant Cell (d12+2) + Dark Vacuum (No Damage) DEX test or be pulled Close to the Void Traveler for 3d6 Void damage.                                                                                                                    |
-| Lumbering Tusk           |  9   | Tusk Fire Breath, hits d4 Nearby targets (d10, sets target on fire). Protective of its young.                                                                                                                                           |
-| T-Rex                    |  9   | Bite and will swallow prey whole on full damage. Would make an awesome mount, but honestly, good luck with that!                                                                                                                        |
-| Gargantuan Defender X-81 |  10  | Attacks with Laser Blaster (d10) and Melting Ray (d12 and melts target on max damage).                                                                                                                                                  |
-| A New You                |  11  | Almost perfect, albino clone of random member of party. Will appear better than original in every way. Will eventually try to consume original, replacing it completely.                                                                |
-| Titanic Slug-Worm        |  12  | Distant, loud tremor is heard a day before arrival. Cracks through the earth causing damage to d4+2 nearby targets. Breathes in and swallows d4+2 nearby targets next round for 1d8 damage. Carries immense wealth inside of its belly. |
