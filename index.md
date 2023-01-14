@@ -65,13 +65,13 @@ Creating a character involves 4 steps
 
 There are 5 classes to play as and choose from: **Pure Strain Humanoid**, **Mutant**, **Robot**, **Plantoid** and **Psionic**. Your class determines your Hit Points and unique abilities.
 
-### Pure Strain Humanoids
+### Pure Strain Humanoid
 Pure Strain Humanoids are survivors of a number of different species. They can be anything you want from humans to elves, dwarves to, of course, goblins. Through luck or genetics they have survived better than the common folk. They boast immunity to radiation, tend to be attractive, and gain a few other perks due to their heritage. Their physical attributes depend on your preference but height always ranges from 3' to 7'.
 
 #### Starting Attributes:
 Roll 4d6 and drop the lowest die for each attribute. Once the stats are generated they may all be swapped around freely.  Afterward, add 1 point to any attribute under 15 and 1 point to CHA (max 19).
 
-**Level 0 HP:** d8
+**Starting HP:** 1d8
 **HP Per Level/Resting:** 1d8
 **Radiation die:** N/A (see below)
 
@@ -83,13 +83,13 @@ Pure Strain Humanoids don't suffer mutations or radiation damage from any source
 Roll to see if attributes increase.
 
 
-### Mutants
+### Mutant
 Mutants vary wildly. Some have extra appendages others share forms or attributes with animals or plant life.
 
 #### Starting Attributes:
 Roll a single d20 for each stat. Reroll all results of 1 and 20.
 
-**Level 0 HP:** d6
+**Starting HP:** 1d6
 **HP Per Level/Resting:** 1d6
 **Radiation die:** d10
 
@@ -132,13 +132,13 @@ Mutants start the game with 2 randomly chosen **Mutations** and an **Ability Die
 Roll to see if attributes increase. Roll 1d6 to determine what attribute to roll twice for. Increase the **Ability Die** one step on **even** levels. Gain a random **Mutation** on **odd** levels, to a max of five. When gaining a sixth **Mutation**, that one replaces the old one.
 
 
-### Plantoids
+### Plantoid
 After the events of the apocalypse, some plant material merged with humanoid DNA and gave rise to a new type of species. Though they can resemble humanoids some are covered in bark while others sprout flowers and give off fragrances. As varied as their appearance can be, adventuring plantoids are mostly 3' to 8' tall and are able to move.
 
 #### Starting Attributes:
 Roll 18d6 and distribute stats as desired. Maximum value for any stat is 18 and minimum is 2.
 
-**Level 0 HP:** d6
+**Starting HP:** 1d6
 **HP Per Level/Resting:** 1d6
 **Radiation die:** d10
 
@@ -187,7 +187,7 @@ Psionics looks like most other Pure Strain Humanoids but have developed mental g
 #### Starting Attributes:
 Roll 2d6+2 for **STR**, **DEX** and **CON** and roll 4d6 and drop the lowest die for **INT**, **WIS** and **CHA**. Once all stats are generated two may be swapped around.
 
-**Level 0 HP:** d4
+**Starting HP:** 1d4
 **HP Per Level/Resting:** 1d4
 **Radiation die:** d10
 
@@ -231,13 +231,13 @@ Roll to see if attributes increase. Roll twice for **INT** and **WIS**.
 Increase the **Ability die** one step on **odd** levels.
 Gain a random **Psionic Power** on **even** levels, to a max of five. When gaining a sixth **Psionic Power**, that one replaces an old one.
 
-### Robots
+### Robot
 Constructs from the war, robots vary quite a bit in composition.
 
 #### Starting Attributes:
 Robots don't get to roll, but instead generate their attributes with a point-buy system. Their starting stats begin at 8, and they have 25 points to spend to increase them. Raising a stat above 13 costs 2 points, Above 14 costs 3 points, above 15 cost 4 points, and so on. Robots cannot raise a single stat above 18.
 
-**Level 0 HP:** d10
+**Starting HP:** d10
 **HP Per Level/Repair:** 1d10 (Robots use **Scrap** to perform self-repair instead of resting)
 **Radiation die:** N/A (see below)
 
