@@ -113,31 +113,31 @@ Roll a single d20 for each stat. Reroll all results of 1 and 20.
 
 #### Powers (Mutations)
 
-Mutants start the game with 1 randomly chosen **Mutations** and an **Ability Die** of d4. This die is refreshed after a long rest. To use a **Mutation**, first check the attributes that corresponds with what you are attempting to do, then roll the **Ability Die** to see if it decreases a step.
-**Reactive Mutations (R)** can be triggered even when it isn't the targeted player's turn, and do not count as an action. If a roll of 20 is made while using a **Mutation**, the **Mutation** cannot be used again until the character finishes a long rest.
+Mutants start the game with 2 randomly chosen **Mutations** and an **Ability Die** of d4. This die is refreshed after a long rest. To use a **Mutation**, first check the attributes that corresponds with what you are attempting to do, then roll the **Ability Die** to see if it decreases a step.
+**Reactive Mutations (R)** can be triggered even when it isn't the targeted player's turn, and do not count as an action.
 
 | Mutations             | Effect                                                                                                                   |
 |:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| 1. Chameleon          | Blend into the environment to gain advantage on stealth check.                                                                |
+| 1. Chameleon          | Blend into the environment to gain advantage on stealth check.                                                           |
 | 2. Winged             | Gain ability to fly up to far-away range.                                                                                |
-| 3. Super      | Permanently increase one attribute by 2 to a max of 20.                                                             |
+| 3. Super              | Permanently increase one attribute by 3 to a max of 20.                                                             |
 | 4. Extendable Claws   | Unarmed attack deals d8+level damage. Concealable at will.                                                               |
-| 5. Electrical             | Attack that deals electrical damage for d6+level up to close range.                                                       |
+| 5. Electrical         | Attack that deals electrical damage for d6+level up to close range.                                                  |
 | 6. Sonar              | Instant sound-based echolocation up to far-away.                                                                         |
 | 7. Magnetism          | Attract/repel small, metallic objects from/to up to nearby distance. Ranged attack with an object does unarmed+level damage. |
 | 8. Stretching         | Elongate limbs or body up to 5' in any direction.                                                             |
-| 9. Climber            | Advantage on Climbing checks.                                                                                              |
-| 10. Amphibian | Breathe underwater for 10 minutes. Advantage on checks for moving in water.                                                                                          |
-| 11. Web               | Ranged attack snares prey nearby.                                                                                               |
+| 9. Weather Control    | Change local weather from cloudy to rain, rain to thunder etc.                                                   |
+| 10. Amphibian         | Breathe underwater for 10 minutes. Advantage on checks for moving in water.                                                      |
+| 11. Web               | Ranged attack snares prey nearby.                                                                                        |
 | 12. Exoskeleton (R)   | Gain 2 AP for the next minute.                                                                                 |
-| 13. Acid Saliva       | Unarmed attack causes level acid damage and coats the target in corrosive spit.                                             |
+| 13. Acid Saliva       | Unarmed attack causes level acid damage and coats the target in corrosive spit.                                          |
 | 14. Vampiric          | Unarmed attack deals d6+level damage and heals the Mutant for half the amount.                                          |
-| 15. Long Tail         | Advantage on Coordination checks. Ability to grab small objects within close range.                                             |
-| 16. Quick  | Can attack twice per round with melee attacks and move twice as fast.                                                                                   |
-| 17. Regeneration (R)     | Pass CON check to heal d6+level hit points.                                                                               |
-| 18. Cryokinesis             | Ranged attacks that deal cold damage for d6+level up to nearby.                                                                     |
-| 19. Pyrokinesis      | Ranged attacks that deal fire damage for d6+level up to nearby.                                                      |
-| 20. X Ray Vision         | See through nearby objects at will.                                              |
+| 15. Long Tail         | Advantage on Coordination checks. Ability to grab small objects within close range.                                      |
+| 16. Quick             | Can attack twice per round with melee attacks and move twice as fast.                                         |
+| 17. Regeneration (R)  | Pass CON check to heal d6+level hit points.                                                                           |
+| 18. Cryokinesis       | Ranged attacks that deal cold damage for d6+level up to nearby.                                                    |
+| 19. Pyrokinesis       | Ranged attacks that deal fire damage for d6+level up to nearby.                                                      |
+| 20. Teleportation     | Teleport up to far away distance.                                                                                   |
 
 
 #### Special features
@@ -217,25 +217,25 @@ Psionicists start the game with one randomly selected **Psionic Power** and an *
 | Psionic powers        | Effect                                                                           |
 |:----------------------|:---------------------------------------------------------------------------------|
 | 1. Mental Domination  | Target that is close must obey one simple command.                               |
-| 2. Healing Energy     | Heal nearby target for d6+level HP.                                              |
-| 3. Nightmare Visions  | Nearby target panics and tries to run away and/or hide.                          |
-| 4. Cryokinesis        | Nearby target takes 1d6+level cold damage and risks paralyzation.                |
-| 5. Pyrokinesis        | Nearby target takes 1d6+level fire damage.                                       |
-| 6. Empathy            | Influence nearby target's mood.                                                  |
+| 2. Cell adjustment    | Heal nearby target for d6+level HP.                                              |
+| 3. Fearful Visions    | Nearby target panics and tries to run away and/or hide.                          |
+| 4. Precognition       | Gain advantage when defending against physical attacks                           |
+| 5. Sense              | Detect nearby creatures and see in the dark                                      |
+| 6. Empathy            | Understand and influence close  target's mood.                                   |
 | 7. Telepathy          | Read nearby target's mind.                                                       |
 | 8. Telekinetic        | Manipulate nearby small to medium size object.                                   |
 | 9. Psi-Blast          | Target takes d10+level damage. Up to far-away range.                             |
-| 10. Sleep             | 1d4 nearby target falls asleep.                                                      |
-| 11. Force Field       | All nearby allies gain 2 AP for one minute.                            |
+| 10. Sleep             | 1d4 nearby target falls asleep.                                                  |
+| 11. Force Field       | All nearby allies gain 2 AP for one minute.                                      |
 | 12. Illusion          | Influence what nearby target sees.                                               |
 | 13. Sound Imitation   | Influence what nearby target hears and from where.                               |
-| 14. Life Leech        | Nearby target takes d6+level damage. Character heals same amount.                     |
+| 14. Tongues           | Speak any spoken language                                                        |
 | 15. Directional Sense | Psionic knows which way is north, where the closest exit is and cannot get lost. |
 | 16. Clairvoyance      | Get a brief glimpse of a place the Psionic has been before.                      |
 | 17. Levitation        | Levitate up to nearby distance.                                                  |
-| 18. Control Light     | Bend light to gain Advantage on stealth check.                                    |
-| 19. Teleportation     | Teleport up to nearby distance.                                                  |
-| 20. Weather Control   | Change local weather from cloudy to rain, rain to thunder etc.                   |
+| 18. Control Light     | Bend light to gain Advantage on nearby stealth checks .                          |
+| 19. Paralyzing Gaze   | Paralyze one target for 1d4 rounds                                               |
+| 20. Psychic Crush     | Reduce nearby target's INT by 1d4 for 1d4 rounds. Target dies at 0 INT           |
 
 
 #### Special features
