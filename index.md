@@ -61,12 +61,6 @@ Creating a character involves 4 steps
 2. Choose an apprenticeship
 3. Buy equipment (start with 1d4 slugs unless otherwise noted)
 
-
-## Choose a species
-
-All creatures in the lands are descendent of civilizations. Choose one.
-
-
 ## Choose a class
 
 There are 5 classes to play as and choose from: **Pure Strain Humanoid**, **Mutant**, **Robot**, **Plantoid** and **Psionic**. Your class determines your Hit Points and unique abilities.
@@ -90,7 +84,7 @@ Roll to see if attributes increase.
 
 
 ### Mutants
-Mutants vary wildly. Some have extra appendages others share forms or attributes with animals or plant life. Most mutants that adventure are between 3' and 7' tall with the average height being similar to their species.
+Mutants vary wildly. Some have extra appendages others share forms or attributes with animals or plant life.
 
 #### Starting Attributes:
 Roll a single d20 for each stat. Reroll all results of 1 and 20.
