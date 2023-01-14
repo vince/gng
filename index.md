@@ -57,34 +57,22 @@ When a character **levels** up, their maximum Hit Points increase by rolling the
 
 Creating a character involves 4 steps
 
-1. Choose a species
-2. Choose a class, roll attributes, and pick special features
-3. Choose an apprenticeship
-4. Buy equipment (start with 1d4 slugs unless otherwise noted)
+1. Choose a class, roll attributes, and pick special features
+2. Choose an apprenticeship
+3. Buy equipment (start with 1d4 slugs unless otherwise noted)
 
 
 ## Choose a species
 
 All creatures in the lands are descendent of civilizations. Choose one.
 
-| Species             | Description                                                                                                                   |
-|:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Dwarves          | Generally between 4-5’ tall.                                                   |
-| Goblins             | Generally between 3-4’ tall. |
-| Elves     | Generally between 5-6’ tall though few grow taller |
-| Gnomes  | Generally between 3-4’ tall                         |
-| Hobgoblins             | Generally between 5-6’ tall though few grow taller                        |
-| Human             | Generally between 5-6’ tall though some grow taller                     |
-| Orcs             | Generally between 6-7’ tall through some grow taller                     |
-| Mutant, Plantoids, Robots            | Varies wildly. Be creative!                      |
-
 
 ## Choose a class
 
-There are 5 classes to play as and choose from: **Humanoid**, **Mutant**, **Robot**, **Plantoid** and **Psionicist**. Your class determines your Hit Points and unique abilities.
+There are 5 classes to play as and choose from: **Pure Strain Humanoid**, **Mutant**, **Robot**, **Plantoid** and **Psionic**. Your class determines your Hit Points and unique abilities.
 
 ### Pure Strain Humanoids
-Pure Strain Humanoids are survivors of a number of different species. Through luck or genetics they have survived better than the common folk. They boast immunity to radiation, tend to be attractive, and gain a few other perks due to their heritage. Their height, weight and other attributes depend on their species.
+Pure Strain Humanoids are survivors of a number of different species. They can be anything you want from humans to elves, dwarves to, of course, goblins. Through luck or genetics they have survived better than the common folk. They boast immunity to radiation, tend to be attractive, and gain a few other perks due to their heritage. Their physical attributes depend on your preference but height always ranges from 3' to 7'.
 
 #### Starting Attributes:
 Roll 4d6 and drop the lowest die for each attribute. Once the stats are generated they may all be swapped around freely.  Afterward, add 1 point to any attribute under 15 and 1 point to CHA (max 19).
@@ -163,7 +151,7 @@ Roll 18d6 and distribute stats as desired. Maximum value for any stat is 18 and 
 
 #### Powers (Adaptations)
 
-Plantoids start the game with 1 randomly chosen **Adaptation** and an **Ability Die** of d4. This die is refreshed after a long rest. To use an **Adaptation**, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to see if it decreases a step.
+Plantoids start the game with 2 randomly chosen **Adaptations** and an **Ability Die** of d4. This die is refreshed after a long rest. To use an **Adaptation**, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to see if it decreases a step.
 
 **Reactive Adaptations (R)** can be triggered even when it isn't the targeted player's turn, and do not count as an action. If a roll of 20 is made while using an **Adaption**, the **Adaption** cannot be used again until the character finishes a long rest.
 
@@ -199,8 +187,8 @@ Plantoids start the game with 1 randomly chosen **Adaptation** and an **Ability 
 Roll to see if attributes increase. Roll 1d6 to determine what attribute to roll twice for. Increase the **Ability Die** one step on **even** levels. Gain a random **Adaptation** on **odd** levels, to a max of four. When gaining a fifth **Adaptation**, that one replaces the old one.
 
 
-### Psionicists
-Psionicists looks like most other Pure Strain Humanoids but have developed mental gifts allowing them to manipulate people, objects, and sometimes the environment using only their minds.
+### Psionic
+Psionics looks like most other Pure Strain Humanoids but have developed mental gifts allowing them to manipulate people, objects, and sometimes the environment using only their minds.
 
 #### Starting Attributes:
 Roll 2d6+2 for **STR**, **DEX** and **CON** and roll 4d6 and drop the lowest die for **INT**, **WIS** and **CHA**. Once all stats are generated two may be swapped around.
@@ -211,7 +199,7 @@ Roll 2d6+2 for **STR**, **DEX** and **CON** and roll 4d6 and drop the lowest die
 
 #### Powers (Psionics)
 
-Psionicists start the game with one randomly selected **Psionic Power** and an **Ability Die** of d4. This die is refreshed after a long meditation (rest). To use these, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to check if it decreases a step. **Reactive Psionic Powers (R)** can be triggered even when it isn't the targeted player's turn, and counts as a free action. Robots, constructs or other mindless creatures are immune to **Psionic Powers**, unless otherwise stated.
+Psionics start the game with 2 randomly selected **Psionic Power** and an **Ability Die** of d4. This die is refreshed after a long meditation (rest). To use these, first check the attribute that corresponds with what you are attempting to do, then roll the **Ability Die** to check if it decreases a step. **Reactive Psionic Powers (R)** can be triggered even when it isn't the targeted player's turn, and counts as a free action. Robots, constructs or other mindless creatures are immune to **Psionic Powers**, unless otherwise stated.
 
 
 | Psionic powers        | Effect                                                                           |
